@@ -6,18 +6,15 @@ Changelog for Imperial GMOD DarkRP server.
 
 ### Things Needed to Change/Add/Remove
 
-##### Broken Functions/Addons
-* !taxrate
-
 ##### DarkRP Gamemode
 * Fix other T-Posed models
-* Setup VIP job rules (Update MOTD)
 
 ##### VIP System
 * VIP Base System finish
 * Finish default VIP jobs (2 more)
 * Three custom entities
 * Custom classes 
+* Setup VIP job rules (Update MOTD)
 
 ##### T-Admin System
 * !warn arguments
@@ -31,6 +28,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Disallowed clientside scripts in settings.lua
 * Dedicated Teamspeak w/ Ranks (ts.imperialgmod.com)
 * Moved webhost and FastDL over to new Los Angeles host
+* Made !needadmin requests bright green
+* !taxrate function fixed
 
 ---
 
