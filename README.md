@@ -17,7 +17,6 @@ Changelog for Imperial GMOD DarkRP server.
 * Setup VIP job rules (Update MOTD)
 
 ##### T-Admin System
-* !warn arguments
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
 
@@ -30,6 +29,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Made !needadmin requests bright green
 * !taxrate function fixed
 * Fixed moderators not seeing !needadmin requests
+* Warn system is now working. Usage: !warn 'playername'. There is NO warn reason. The name must be between the ' character.
 
 ---
 
