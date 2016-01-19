@@ -18,7 +18,6 @@ Changelog for Imperial GMOD DarkRP server.
 
 ##### T-Admin System
 * !warn arguments
-* Moderators not seeing !needadmin
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
 
@@ -30,6 +29,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Moved webhost and FastDL over to new Los Angeles host
 * Made !needadmin requests bright green
 * !taxrate function fixed
+* Fixed moderators not seeing !needadmin requests
 
 ---
 
