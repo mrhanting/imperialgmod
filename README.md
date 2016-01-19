@@ -30,7 +30,7 @@ Changelog for Imperial GMOD DarkRP server.
 
 ---
 
-### January 18th, 2016
+### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
 
 ---
