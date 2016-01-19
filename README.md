@@ -1,4 +1,4 @@
-# ImperialGMOD
+# Imperial GMOD
 
 Changelog for Imperial GMOD DarkRP server.
 
