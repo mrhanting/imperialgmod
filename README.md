@@ -25,6 +25,9 @@ Changelog for Imperial GMOD DarkRP server.
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
 
+##### Other
+* Dedicated Teamspeak
+
 ---
 
 ### January 18th, 2016
