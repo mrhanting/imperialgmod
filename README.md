@@ -4,6 +4,29 @@ Changelog for Imperial GMOD DarkRP server.
 
 ---
 
+### Things Needed to Change/Add/Remove
+
+##### Broken Functions/Addons
+* !taxrate
+
+##### DarkRP Gamemode
+* Fix other T-Posed models
+* Setup VIP job rules (Update MOTD)
+
+##### VIP System
+* VIP Base System finish
+* Finish default VIP jobs (2 more)
+* Three custom entities
+* Custom classes 
+
+##### T-Admin System
+* !warn arguments
+* Moderators not seeing !needadmin
+* Add logging for warrants, adverts, job changes, etc
+* Edit log page to for above
+
+---
+
 ### January 18th, 2016
 
 * Added inventory system to server (https://scriptfodder.com/scripts/view/15)
