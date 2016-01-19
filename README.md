@@ -25,13 +25,11 @@ Changelog for Imperial GMOD DarkRP server.
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
 
-##### Other
-* Dedicated Teamspeak
-
 ---
 
 ### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
+* Dedicated Teamspeak w/ Ranks (ts.imperialgmod.com)
 
 ---
 
