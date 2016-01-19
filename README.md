@@ -6,7 +6,8 @@ Changelog for Imperial GMOD DarkRP server.
 
 * Added inventory system to server (https://scriptfodder.com/scripts/view/15)
 * Fixed an exploit with TEAM_DRUG that crashed the server.
-* 
+
+
 
 ### Before January 18th, 2016
 
