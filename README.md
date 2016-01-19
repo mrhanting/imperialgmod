@@ -30,6 +30,7 @@ Changelog for Imperial GMOD DarkRP server.
 ### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
 * Dedicated Teamspeak w/ Ranks (ts.imperialgmod.com)
+* Moved webhost and FastDL over to new Los Angeles host
 
 ---
 
