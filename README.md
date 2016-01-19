@@ -30,6 +30,7 @@ Changelog for Imperial GMOD DarkRP server.
 * !taxrate function fixed
 * Fixed moderators not seeing !needadmin requests
 * Warn system is now working. Usage: !warn 'playername'. There is NO warn reason. The name must be between the ' character.
+* VIP thread created. VIP donation section on index updated.
 
 ---
 
