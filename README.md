@@ -25,6 +25,9 @@ Changelog for Imperial GMOD DarkRP server.
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
 * Changed jobs that can raid (like thief, underground) to gray to avoid confusion.
+* Changed Bitcoin Miner limit to 3. 
+* Bitcoin sell price changed from $100 to $200 per BTC
+* Added VIP Bitcoin Miner.
 
 ### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
