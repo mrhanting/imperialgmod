@@ -19,6 +19,7 @@ Changelog for Imperial GMOD DarkRP server.
 ##### T-Admin System
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
+* Warns jumping from 1 to 3
 
 ---
 
