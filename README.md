@@ -19,9 +19,11 @@ Changelog for Imperial GMOD DarkRP server.
 ##### T-Admin System
 * Add logging for warrants, adverts, job changes, etc
 * Edit log page to for above
-* Warns jumping from 1 to 3
 
 ---
+
+### January 20th, 2016
+* Fixed warns jumping from 1 to 3
 
 ### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
