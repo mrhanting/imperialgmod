@@ -24,6 +24,7 @@ Changelog for Imperial GMOD DarkRP server.
 
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
+* Changed jobs that can raid (like thief, underground) to gray to avoid confusion.
 
 ### January 19th, 2016
 * Disallowed clientside scripts in settings.lua
