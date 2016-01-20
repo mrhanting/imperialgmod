@@ -13,12 +13,12 @@ Changelog for Imperial GMOD DarkRP server.
 * VIP Base System finish
 * Finish default VIP jobs (2 more)
 * Three custom entities
-* Custom classes 
+* Custom classes system
 * Setup VIP job rules (Update MOTD)
 
 ##### T-Admin System
-* Add logging for warrants, adverts, job changes, etc
-* Edit log page to for above
+* Add logging for warrants, adverts, and job changes
+* Edit log page for user friendliness
 
 ---
 
