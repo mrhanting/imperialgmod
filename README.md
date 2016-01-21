@@ -22,6 +22,10 @@ Changelog for Imperial GMOD DarkRP server.
 
 ---
 
+### January 21st, 2016
+* Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
+* Added Realistic Taser (http://steamcommunity.com/sharedfiles/filedetails/?id=271251046)
+
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
 * Changed jobs that can raid (like thief, underground) to gray to avoid confusion.
