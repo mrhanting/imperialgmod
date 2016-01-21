@@ -25,6 +25,8 @@ Changelog for Imperial GMOD DarkRP server.
 ### January 21st, 2016
 * Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
 * Added Realistic Taser (http://steamcommunity.com/sharedfiles/filedetails/?id=271251046)
+* Added SmartSnap (http://steamcommunity.com/sharedfiles/filedetails/?id=588721781)
+* Added precision tool
 
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
