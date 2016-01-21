@@ -28,6 +28,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added SmartSnap (http://steamcommunity.com/sharedfiles/filedetails/?id=588721781)
 * Added precision tool
 * Server automatically cleans up disconnected props every five minutes
+* Adjust Job Instructions for new VIP jobs
 
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
