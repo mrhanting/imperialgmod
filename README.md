@@ -27,6 +27,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added Taser http://steamcommunity.com/sharedfiles/filedetails/?id=578333531
 * Added SmartSnap (http://steamcommunity.com/sharedfiles/filedetails/?id=588721781)
 * Added precision tool
+* Server automatically cleans up disconnected props every five minutes
 
 ### January 20th, 2016
 * Fixed warns jumping from 1 to 3
