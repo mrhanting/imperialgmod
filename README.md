@@ -4,24 +4,6 @@ Changelog for Imperial GMOD DarkRP server.
 
 ---
 
-### Things Needed to Change/Add/Remove
-
-##### DarkRP Gamemode
-* Fix other T-Posed models
-
-##### VIP System
-* VIP Base System finish
-* Finish default VIP jobs (2 more)
-* Three custom entities
-* Custom classes system
-* Setup VIP job rules (Update MOTD)
-
-##### T-Admin System
-* Add logging for warrants, adverts, and job changes
-* Edit log page for user friendliness
-
----
-
 ### January 22nd, 2016
 * Added PermaProps for admins 
 * Replaced old stacker tool with non-exploitable version
