@@ -26,6 +26,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Added PermaProps for admins 
 * Replaced old stacker tool with non-exploitable version
 * Fixed exploit for unlimited entities via. inventory
+* Added Smart Weld
+* Made some textscreens around the map
 
 ### January 21st, 2016
 * Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
