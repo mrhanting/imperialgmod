@@ -28,6 +28,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Fixed exploit for unlimited entities via. inventory
 * Added Smart Weld
 * Made some textscreens around the map
+* Added benches, props, etc around the map for scenic appeal
 
 ### January 21st, 2016
 * Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
