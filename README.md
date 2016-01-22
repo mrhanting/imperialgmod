@@ -22,6 +22,10 @@ Changelog for Imperial GMOD DarkRP server.
 
 ---
 
+### January 22nd, 2016
+* Added PermaProps for admins 
+* Replaced old stacker tool with non-exploitable version
+
 ### January 21st, 2016
 * Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
 * Added Taser http://steamcommunity.com/sharedfiles/filedetails/?id=578333531
