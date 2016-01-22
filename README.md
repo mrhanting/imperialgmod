@@ -29,6 +29,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added Smart Weld
 * Made some textscreens around the map
 * Added benches, props, etc around the map for scenic appeal
+* Fixed FailRP exploit using safe zone to get full health
 
 ### January 21st, 2016
 * Added Door STool (http://steamcommunity.com/sharedfiles/filedetails/?id=104479467)
