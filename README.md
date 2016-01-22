@@ -12,7 +12,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Made some textscreens around the map
 * Added benches, props, etc around the map for scenic appeal
 * Fixed FailRP exploit using safe zone to get full health
-* T-Admin Administration HUD in beta. Owner module preview done (http://i.imgur.com/YmqRRyj.jpg)
+* T-Admin Administration HUD in beta. Owner module preview done (http://i.imgur.com/caGDrx3.jpg)
 Includes player logging, information, getip function, and more
 
 ### January 21st, 2016
