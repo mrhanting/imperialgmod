@@ -3,6 +3,10 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### January 23rd, 2016
+* Removed taser swep due to abuse
+* Fixed terrorist having police sweps
+* Added 'Staff on Duty' job
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
