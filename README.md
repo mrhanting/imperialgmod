@@ -9,6 +9,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added 'Staff on Duty' job
 * Added reason to !warn system. Usage: !warn 'player name' RDM
 * Set sbox_maxtextscreens from 1 to 3
+* Fixed exploit with players dropping weapons and inventorying them
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
