@@ -14,6 +14,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added new style for website
 * Rule updates for basing and job-specific
 * Added 'Communications Collection Terms' to MOTD
+* Disabled 'Needs Approval' admin function on website
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
