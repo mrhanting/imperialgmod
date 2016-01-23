@@ -8,6 +8,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Fixed terrorist having police sweps
 * Added 'Staff on Duty' job
 * Added reason to !warn system. Usage: !warn 'player name' RDM
+* Set sbox_maxtextscreens from 1 to 3
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
