@@ -13,6 +13,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Changed website software from MyBB to phpBB
 * Added new style for website
 * Rule updates for basing and job-specific
+* Added 'Communications Collection Terms' to MOTD
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
