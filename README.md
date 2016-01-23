@@ -7,6 +7,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Removed taser swep due to abuse
 * Fixed terrorist having police sweps
 * Added 'Staff on Duty' job
+* Added reason to !warn system. Usage: !warn 'player name' RDM
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
