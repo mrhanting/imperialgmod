@@ -17,6 +17,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Disabled 'Needs Approval' admin function on website
 * Added "Damage Players in Seats' (http://steamcommunity.com/sharedfiles/filedetails/?id=428278317)
 * Added 'Seat Weaponiser 2' (http://steamcommunity.com/sharedfiles/filedetails/?id=601411453)
+* Fixed map not downloading to client (Whoops, probably why we have had low population)
+* Added loading screen for new clients
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
