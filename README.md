@@ -19,6 +19,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Added 'Seat Weaponiser 2' (http://steamcommunity.com/sharedfiles/filedetails/?id=601411453)
 * Fixed map not downloading to client (Whoops, probably why we have had low population)
 * Added loading screen for new clients
+* Added Arnold job for VIP. 
+* Created "Arnold Yelling" swep. (NOTE: ADMINS PLEASE GIVE THIS A TRY ITS IN 'OTHER' WEAPONS)
 
 ### January 22nd, 2016
 * Added PermaProps for admins 
