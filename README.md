@@ -8,7 +8,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Taxrate change message fixed from displaying decimal value instead of percent
 * Fixed not being able to OOC chat from certain commands (sub.string issue)
 * Gave TEAM_TERRORIST lockpick
-* Adjusted hit price to $3000, set cooldown per cline to 10 minutes.
+* Adjusted hit price to $3000, set cooldown per client to 10 minutes.
+* Fixed T-Pose with shop manager.
 
 ### January 23rd, 2016
 * Removed taser swep due to abuse
