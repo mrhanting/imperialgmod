@@ -3,6 +3,13 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### January 24th, 2016
+* Added reason to kick message for T-Admin
+* Taxrate change message fixed from displaying decimal value instead of percent
+* Fixed not being able to OOC chat from certain commands (sub.string issue)
+* Gave TEAM_TERRORIST lockpick
+* Adjusted hit price to $3000, set cooldown per cline to 10 minutes.
+
 ### January 23rd, 2016
 * Removed taser swep due to abuse
 * Fixed terrorist having police sweps
