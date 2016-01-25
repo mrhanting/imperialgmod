@@ -11,6 +11,9 @@ Changelog for Imperial GMOD DarkRP server.
 * Adjusted hit price to $3000, set cooldown per client to 10 minutes.
 * Fixed T-Pose with shop manager.
 
+#### New Staff:
+* Uncle Shoes (Sinister)
+
 ### January 23rd, 2016
 * Removed taser swep due to abuse
 * Fixed terrorist having police sweps
