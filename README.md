@@ -3,6 +3,9 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### January 25th, 2016
+* Created anti-prop crash system. Alerts admins on possible server crashers.
+
 ### January 24th, 2016
 * Added reason to kick message for T-Admin
 * Taxrate change message fixed from displaying decimal value instead of percent
