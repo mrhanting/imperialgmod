@@ -12,7 +12,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Fixed T-Pose with shop manager.
 
 #### New Staff:
-* Uncle Shoes (Sinister)
+* Uncle Shoes (Sinister) [STEAM_0:0:77549325]
 
 ### January 23rd, 2016
 * Removed taser swep due to abuse
