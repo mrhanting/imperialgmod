@@ -8,6 +8,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added edible foods mod
 * Gave service workers the ability to sell food
 * NLR timer added
+* Gave noclip perms to moderators
 
 ### January 24th, 2016
 * Added reason to kick message for T-Admin
