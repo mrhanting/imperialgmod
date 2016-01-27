@@ -3,6 +3,11 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### January 27th, 2016
+* NLR detection system done
+* Level system done w/ global variables
+* OwnerHUD fixed
+
 ### January 25th, 2016
 * Created anti-prop crash system. Alerts admins on possible server crashers.
 * Added edible foods mod
