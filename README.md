@@ -10,6 +10,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added new T-Admin Commands (see the forums for details)
 * Time tracking script done
 * OwnerHUD fixed
+* Fixed bug with warning system not banning properly
 
 ### January 25th, 2016
 * Created anti-prop crash system. Alerts admins on possible server crashers.
