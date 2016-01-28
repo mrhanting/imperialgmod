@@ -6,6 +6,9 @@ Changelog for Imperial GMOD DarkRP server.
 ### January 27th, 2016
 * NLR detection system done
 * Level system done w/ global variables
+* Made police jobs require a level of 5
+* Added new T-Admin Commands (see the forums for details)
+* Time tracking script done
 * OwnerHUD fixed
 
 ### January 25th, 2016
