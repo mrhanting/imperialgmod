@@ -3,6 +3,13 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### January 28th, 2016
+* New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
+* Documentation updated in T-Admin Module
+* Restricted Trained Thief to level 4
+* Added more props to spam whitelist
+* Edited !buyvip so pre-existing vip and staff can't buy it (Staff, talk to Jazzar)
+
 ### January 27th, 2016
 * NLR detection system done
 * Level system done w/ global variables
