@@ -9,6 +9,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Restricted Trained Thief to level 4
 * Added more props to spam whitelist
 * Edited !buyvip so pre-existing vip and staff can't buy it (Staff, talk to Jazzar)
+* Player gains XP by performing certain actions in-game
+* Added admin menu for T-Admin commands. Use !tadmin
 
 ### January 27th, 2016
 * NLR detection system done
