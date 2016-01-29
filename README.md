@@ -11,6 +11,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Edited !buyvip so pre-existing vip and staff can't buy it (Staff, talk to Jazzar)
 * Player gains XP by performing certain actions in-game
 * Added admin menu for T-Admin commands. Use !tadmin
+* Fixed chat still appearing when using T-Admin command
 
 ### January 27th, 2016
 * NLR detection system done
