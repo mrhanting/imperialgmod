@@ -13,6 +13,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added 'Mayors Daughter' job (Level 10)
 * Added 'Scientist' job (Level 15)
 * Split VIP jobs into a new category
+* Added 'Activist' job
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
