@@ -3,6 +3,9 @@
 Changelog for Imperial GMOD DarkRP server.
 
 ---
+### February 4th, 2016
+* Fixed food mod not appearing
+
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
 * Documentation updated in T-Admin Module
