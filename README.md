@@ -10,8 +10,8 @@ Changelog for Imperial GMOD DarkRP server.
 * Changed TEAM_THIEF limit to 3
 * Changed TEAM_GANG limit to 4
 * Fixed world entities from being deleted
-* Added 'Mayors Daughter' job
-* Added 'Scientist' job
+* Added 'Mayors Daughter' job (Level 10)
+* Added 'Scientist' job (Level 15)
 * Split VIP jobs into a new category
 
 ### January 28th, 2016
