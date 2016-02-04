@@ -15,6 +15,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Split VIP jobs into a new category
 * Added 'Activist' job
 * Added Angry Hobo SWEP for hobo classes
+* Added PCMod 15
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
