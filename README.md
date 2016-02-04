@@ -14,6 +14,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added 'Scientist' job (Level 15)
 * Split VIP jobs into a new category
 * Added 'Activist' job
+* Added Angry Hobo SWEP for hobo classes
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
