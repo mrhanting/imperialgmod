@@ -12,6 +12,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Fixed world entities from being deleted
 * Added 'Mayors Daughter' job
 * Added 'Scientist' job
+* Split VIP jobs into a new category
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
