@@ -11,6 +11,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Changed TEAM_GANG limit to 4
 * Fixed world entities from being deleted
 * Added 'Mayors Daughter' job
+* Added 'Scientist' job
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
