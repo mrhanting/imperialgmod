@@ -6,6 +6,10 @@ Changelog for Imperial GMOD DarkRP server.
 ### February 4th, 2016
 * Fixed food mod not appearing
 * Capped max level at 99
+* Added 'Food Chef' job
+* Changed TEAM_THIEF limit to 3
+* Changed TEAM_GANG limit to 4
+* Fixed world entities from being deleted
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
