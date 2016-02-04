@@ -19,6 +19,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added 'Network Engineer' Job
 * Added new category: High-Tech Workforce
 * Coded 'Tiny Pills' that make you small for scientist
+* Started working on Overcharged Weapons system
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
