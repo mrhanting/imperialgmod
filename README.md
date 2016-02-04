@@ -18,6 +18,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added PCMod 15
 * Added 'Network Engineer' Job
 * Added new category: High-Tech Workforce
+* Coded 'Tiny Pills' that make you small for scientist
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
