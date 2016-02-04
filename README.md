@@ -17,6 +17,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Added Angry Hobo SWEP for hobo classes
 * Added PCMod 15
 * Added 'Network Engineer' Job
+* Added new category: High-Tech Workforce
 
 ### January 28th, 2016
 * New Commands: !resetnlr, !resetlevel, !resetspawm, !resetwarns, !buyvip
