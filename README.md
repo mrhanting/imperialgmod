@@ -7,8 +7,7 @@ Changelog for Imperial GMOD DarkRP server.
 * Fixed food mod not appearing
 * Capped max level at 99
 * Added 'Food Chef' job
-* Changed TEAM_THIEF limit to 3
-* Changed TEAM_GANG limit to 4
+* Changed TEAM_THIEF limit to 3, TEAM_UNDERGROUND limit to 4, and TEAM_GANG limit to 4
 * Fixed world entities from being deleted
 * Added 'Mayors Daughter' job (Level 10)
 * Added 'Scientist' job (Level 15)
